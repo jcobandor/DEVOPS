@@ -155,7 +155,7 @@
     <externalSharingModel>Private</externalSharingModel>
     <label>Control de Cambios</label>
     <nameField>
-        <label>Control de Cambios Name</label>
+        <label>Número</label>
         <trackHistory>false</trackHistory>
         <type>Text</type>
     </nameField>
